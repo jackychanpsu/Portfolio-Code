@@ -1,0 +1,5 @@
+Context switched = 9
+Start time = 0, 	End time =100000
+User time = 91000, 	OS time = 9000
+Number of disk interrupt = 15, 	Number of page faults 0, 	Number of TLB miss 0, 
+Blocked state duration = 0
