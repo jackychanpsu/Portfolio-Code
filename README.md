@@ -5,3 +5,4 @@ in the unity package, and are there in case the unity package fails to operate c
 All assets were free and found on the unity store. 
 
 A video for the AI Demonstration can be found here at https://youtu.be/342nT_rTM4w. 
+A video for the Platformer Demo can found found here  at https://www.youtube.com/watch?v=ogHbDSt7qw8.
